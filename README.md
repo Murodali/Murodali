@@ -4,7 +4,14 @@
 
 I have a bachelor's in 💻 Computer Science from 🎓 the University of Central Asia. I have a serious passion for 🔥 UI effects, animations, and creating intuitive, dynamic user experiences. Over the years I have managed to build a range of 🕸️ and 📱 applications.
 
-Skills: React JS / Redux / JS / Typescript / REST API /Tailwind CSS / Bootstrap /SASS
+### Skills and Experience
+* atom_symbol React
+Redux 
+JavaScript 
+Typescript 
+REST API 
+Tailwind CSS 
+Bootstrap /SASS
 
 - 🔭 I’m currently working on on Baking service for legal entities 
 
