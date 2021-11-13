@@ -14,10 +14,9 @@ Skills: React JS / Redux / JS / Typescript / REST API /Tailwind CSS / Bootstrap 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murodali&theme=dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murodali&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Murodali&theme=dark&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+
+
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murodali&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
+
 
