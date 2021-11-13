@@ -11,8 +11,8 @@ Skills: React JS / Redux / JS / Typescript / REST API /Tailwind CSS / Bootstrap 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Murodali)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/murodali-sharipov//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/murod19)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://practical-newton-2d679d.netlify.app/)  
 
-![](https://github.com/username/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/Murodali/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/Murodali/github-stats/blob/master/generated/languages.svg)
 
 
 
