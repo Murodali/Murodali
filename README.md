@@ -1,5 +1,5 @@
 ![I am Ract JS developer](https://github.com/Murodali/photo/blob/main/Screenshot%20from%202021-11-13%2011-33-19.png?raw=true)
-#### I am Ract JS developer
+#### I am Ract JS/Typescript/Redux developer
 
 
 I have a bachelor's in 💻 Computer Science from 🎓 the University of Central Asia. I have a serious passion for 🔥 UI effects, animations, and creating intuitive, dynamic user experiences. Over the years I have managed to build a range of 🕸️ and 📱 applications.
